@@ -82,7 +82,7 @@ We may update this Privacy Policy periodically to reflect updates to **Logic Cod
 
 If you have any questions, comments, or concerns regarding this Privacy Policy or the privacy practices of **Logic Code**, **Logic War**, or **Logic Lights**, please contact the developer at:
 
-- **Email:** tomindes@gmail.com
+- **Email:** tomlogicgames@gmail.com
 
 ---
 
@@ -170,4 +170,4 @@ If you have any questions, comments, or concerns regarding this Privacy Policy o
 
 Якщо у вас виникли запитання або пропозиції щодо цієї Політики конфіденційності чи роботи додатків **Logic Code**, **Logic War** та **Logic Lights**, будь ласка, зв'яжіться з розробником:
 
-- **Email:** tomindes@gmail.com
+- **Email:** tomlogicgames@gmail.com
