@@ -1,6 +1,6 @@
-# App Support — Lights Out Logic Puzzle
+# App Support — Logic games Puzzle
 
-Welcome to the official support page for **Lights Out**!
+Welcome to the official support page for Logic games Puzzle
 
 ## About the Developer
 We are an independent mobile game developer focused on creating clean, engaging, and brain-teasing **logic puzzle games**. Our goal is to design intuitive, offline-friendly mind games that sharpen spatial reasoning, strategic thinking, and problem-solving skills without unnecessary distractions.
